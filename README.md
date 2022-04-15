@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **yamlakyam@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sLVJJuzlFLSlWcT6LSxi_GhJJDoxh1-F/view?usp=sharing](https://drive.google.com/file/d/1sLVJJuzlFLSlWcT6LSxi_GhJJDoxh1-F/view?usp=sharing)
-
 - ⚡ Fun fact **I think I am funny in my own way :)**
 
 <h3 align="left">Connect with me:</h3>
