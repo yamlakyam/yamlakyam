@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yamlakyam@gmail.com**
 
-- ⚡ Fun fact **I think I am funny in my own way :)**
+- ⚡ Fun fact **I have raised many kittens ever since I was a child :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
