@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [FunLearn](https://github.com/yamlakyam/FunLearn)
 
-- 🌱 I’m currently learning **Javascript, React, Flutter**
+- 🌱 I’m currently learning **DataScience, Machine Learning**
 
 - 💬 Ask me about **Android, kotlin, Dot net core**
 
