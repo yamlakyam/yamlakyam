@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yamlakyam" alt="yamlakyam" /></a> </p>
 
-- 🔭 I’m currently working on [FunLearn](https://github.com/yamlakyam/FunLearn)
+- 🔭 I’m currently working on ML for medical applications, ML for Air quality prediction, Language Technologies for Low-resource African Languages.
 
 - 🌱 I’m currently learning **DataScience, Machine Learning, Deep Learning**
 
-- 💬 Ask me about **Android, kotlin, Dot net core**
+- 💬 Ask me about **Data Science, Applications of Machine Learning, CNN, and Object Detection, ASR models**
 
-- 📫 How to reach me **yamlakyam@gmail.com**
+- 📫 How to reach me **yabogale@andrew.cmu.edu | yamlakyam@gmail.com**
 
 - ⚡ Fun fact **I have raised many kittens ever since I was a child :)**
 
