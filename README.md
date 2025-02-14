@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data Science, Applications of Machine Learning, CNN, and Object Detection, ASR models**
 
-- 📫 How to reach me **yabogale@andrew.cmu.edu | yamlakyam@gmail.com**
+- 📫 How to reach me **ybogale@andrew.cmu.edu | yamlakyam@gmail.com**
 
 - ⚡ Fun fact **I have raised many kittens ever since I was a child :)**
 
